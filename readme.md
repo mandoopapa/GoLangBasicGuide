@@ -1,6 +1,8 @@
 # Go Lang 기초 문법 가이드
 
-         [ 목차 ]
+***
+
+### 　　　[ 목차 ]
 
  1. Go Lang // Hello World-!
  2. Go Lang // Variable
@@ -20,7 +22,6 @@
 ***
 
 만두아빠 블로그의 Go Lang 기초 시리즈의 소스 코드 모음입니다.
-
 계속해서 시리즈는 추가될 예정입니다.
 
 Go Lang 기초 시리즈 : [Blog](https://mdpapa.tistory.com/)
