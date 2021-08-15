@@ -27,4 +27,4 @@
 각 챕터별로 예제와 Readme 파일이 있습니다.
 소스코드와 함께 기본적인 학습 내용을 확인해보세요.
 
-Go Lang 기초 시리즈 : [Blog](https://mdpapa.tistory.com/)
+Go Lang 기초 시리즈 : [Blog](https://mdpapa.tistory.com/tag/golang)
